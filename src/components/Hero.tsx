@@ -15,6 +15,9 @@ const Hero = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="space-y-6">
+              <div className="text-lg text-orange-400 font-semibold mb-4">
+                Ремера-Алнас
+              </div>
               <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
                 Технологии для
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-orange-500">
@@ -51,7 +54,7 @@ const Hero = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-gray-700">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-400">15+</div>
+                <div className="text-3xl font-bold text-blue-400">10+</div>
                 <div className="text-sm text-gray-400">Лет на рынке</div>
               </div>
               <div className="text-center">

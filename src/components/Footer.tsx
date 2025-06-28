@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Icon name="Zap" className="h-8 w-8 text-orange-500" />
-              <span className="text-xl font-bold">НефтеТех</span>
+              <span className="text-xl font-bold">Ремера-Алнас</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Производство высокотехнологичного оборудования для нефтяной
@@ -98,7 +98,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; 2024 НефтеТех. Все права защищены.</p>
+          <p>&copy; 2024 Ремера-Алнас. Все права защищены.</p>
         </div>
       </div>
     </footer>

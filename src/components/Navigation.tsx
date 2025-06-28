@@ -22,7 +22,7 @@ const Navigation = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <Icon name="Zap" className="h-8 w-8 text-orange-500" />
-            <span className="text-xl font-bold">НефтеТех</span>
+            <span className="text-xl font-bold">Ремера-Алнас</span>
           </Link>
 
           {/* Desktop Menu */}
