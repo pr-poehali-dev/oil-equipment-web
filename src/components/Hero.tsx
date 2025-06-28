@@ -54,16 +54,20 @@ const Hero = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-gray-700">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-400">10+</div>
-                <div className="text-sm text-gray-400">Лет на рынке</div>
+                <div className="text-3xl font-bold text-blue-400">120+</div>
+                <div className="text-sm text-gray-400">Видов насосов</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-orange-400">500+</div>
-                <div className="text-sm text-gray-400">Проектов</div>
+                <div className="text-3xl font-bold text-orange-400">300</div>
+                <div className="text-sm text-gray-400">
+                  Модификаций двигателей
+                </div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-green-400">99%</div>
-                <div className="text-sm text-gray-400">Качество</div>
+                <div className="text-3xl font-bold text-green-400">6000+</div>
+                <div className="text-sm text-gray-400">
+                  Вариантов оборудования
+                </div>
               </div>
             </div>
           </div>
